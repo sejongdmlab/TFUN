@@ -45,7 +45,7 @@ for ITFUM
 4. For example
 
 "TFUN.exe 1 ../Data/retail(unc).txt ../Data/utilRetail.txt ../Data/retail.txt 20 4 out/out.txt 4"
-will run uITFU-Miner on Retail, with the threshold set at THr_u : 3% with fuzzy function type 4
+will run uITFU-Miner on Retail, with the threshold set at THr_u : 1% with fuzzy function type 4
 
 "ITFUM.exe 0.1  ../Data/utilMushroom.txt ../Data/Mushroom.txt 20 4 out/out.txt 1"
 will run ITFUM on Mushroom, with the threshold set at THr_u : 0.1% with fuzzy function type 1
