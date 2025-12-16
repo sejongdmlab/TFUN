@@ -50,4 +50,4 @@ will run uITFU-Miner on Retail, with the threshold set at THr_u : 1% with fuzzy 
 "ITFUM.exe 0.1  ../Data/utilMushroom.txt ../Data/Mushroom.txt 20 4 out/out.txt 1"
 will run ITFUM on Mushroom, with the threshold set at THr_u : 0.1% with fuzzy function type 1
 
-6. The output directory "/out" is required for writing result patterns and pre-large patterns for all algorithms.
+6. The output directory "/out" is required for writing result patterns for all algorithms.
